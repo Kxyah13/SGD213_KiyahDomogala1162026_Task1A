@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Movement : MonoBehaviour
 {
-    // Start is called before the first frame update
+    // Start is called to initiate the beginning of the game
     void Start()
     {
         
